@@ -33,7 +33,7 @@ if(Input::exists()) {
 }
 ?>
 
-<form action="" method="post">
+<form action="" class="hest" method="post">
   <div class="field">
     <label for="username">Username</label>
     <input type="text" name="username" id="username" autocomplete="off" />
